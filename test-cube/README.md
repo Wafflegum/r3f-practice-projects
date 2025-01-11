@@ -1,3 +1,7 @@
-# React ThreeJS Fiber Practice Projects
+# Test Cube
 
-This is a compilation of projects I've made to practice R3F.
+This is just a basic test project to familiarize myself on setting up a very basic scene. I also tried adding post processing, but it's really laggy on my system. So I ended up commenting it out.
+
+The cubes are automatically generated based on the amount set.
+
+![Preview](./preview/test-cube-preview.png)
