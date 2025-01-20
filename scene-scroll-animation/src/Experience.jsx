@@ -57,7 +57,7 @@ const Experience = () => {
 
 	return (
 		<>
-			<Line points={linePoints} color={"white"} opacity={0.8} transparent lineWidth={5} />
+			<Line points={linePoints} color={"white"} opacity={0} transparent lineWidth={5} />
 			{/* <OrbitControls enableZoom={false} /> */}
 
 			<group ref={cameraGroup} position={[4, 0, 1.6]}>
